@@ -1,10 +1,10 @@
 {
-  "name": "Trump Reactions",
-  "short_name": "Trump Reactions",
+  "name": "Matsu Reactions",
+  "short_name": "Matsu Reactions",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Replaces emojis in Facebook Reactions by Donald Trump pictures.",
-  "homepage_url": "https://francoisgrante.com",
+  "description": "Replaces emojis in Facebook Reactions by Matsuno Brothers (from Osomatsu-san).",
+  "homepage_url": "https://github.com/pixelart7/matsu-reactions",
   "default_locale": "en",
   "icons": {
     "16": "img/icon16.png",
